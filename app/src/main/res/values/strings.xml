@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgList</string>
+    <string name="prog_name">Program Name</string>
+    <string name="detail">Detail</string>
+</resources>
